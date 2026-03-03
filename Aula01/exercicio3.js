@@ -1,0 +1,1 @@
+<script src="exercicio3.js"></script>
